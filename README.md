@@ -1,1 +1,1 @@
-# tourist
+# Stock Management System
